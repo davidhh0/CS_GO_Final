@@ -1,0 +1,2 @@
+<annotation><folder /><filename>191.jpg</filename><path>191.jpg</path><source><database>custom_David_Yuval</database></source><size><width>680</width><height>384</height><depth>3</depth></size><segmented>0</segmented><object><name>Terrorist</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><occluded>0</occluded><bnbox><xmin>305</xmin><ymin>170</ymin><xmax>402</xmax><ymax>288
+</ymax></bnbox></object></annotation>

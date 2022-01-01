@@ -1,0 +1,4 @@
+<annotation><folder /><filename>47.jpg</filename><path>47.jpg</path><source><database>custom_David_Yuval</database></source><size><width>680</width><height>384</height><depth>3</depth></size><segmented>0</segmented><object><name>Terrorist</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><occluded>0</occluded><bnbox><xmin>187</xmin><ymin>97</ymin><xmax>296</xmax><ymax>349
+</ymax></bnbox></object><object><name>Terrorist</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><occluded>0</occluded><bnbox><xmin>343</xmin><ymin>96</ymin><xmax>429</xmax><ymax>339
+</ymax></bnbox></object><object><name>Terrorist</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><occluded>0</occluded><bnbox><xmin>438</xmin><ymin>164</ymin><xmax>475</xmax><ymax>255
+</ymax></bnbox></object></annotation>

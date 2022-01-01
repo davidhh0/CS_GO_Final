@@ -1,0 +1,5 @@
+<annotation><folder /><filename>317.jpg</filename><path>317.jpg</path><source><database>custom_David_Yuval</database></source><size><width>680</width><height>384</height><depth>3</depth></size><segmented>0</segmented><object><name>CT</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><occluded>0</occluded><bnbox><xmin>461</xmin><ymin>218</ymin><xmax>539</xmax><ymax>296
+</ymax></bnbox></object><object><name>CT</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><occluded>0</occluded><bnbox><xmin>318</xmin><ymin>207</ymin><xmax>379</xmax><ymax>284
+</ymax></bnbox></object><object><name>CT</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><occluded>0</occluded><bnbox><xmin>431</xmin><ymin>177</ymin><xmax>494</xmax><ymax>249
+</ymax></bnbox></object><object><name>CT</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><occluded>0</occluded><bnbox><xmin>373</xmin><ymin>173</ymin><xmax>421</xmax><ymax>236
+</ymax></bnbox></object></annotation>

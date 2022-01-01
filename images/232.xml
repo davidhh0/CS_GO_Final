@@ -1,0 +1,3 @@
+<annotation><folder /><filename>232.jpg</filename><path>232.jpg</path><source><database>custom_David_Yuval</database></source><size><width>680</width><height>384</height><depth>3</depth></size><segmented>0</segmented><object><name>CT</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><occluded>0</occluded><bnbox><xmin>297</xmin><ymin>140</ymin><xmax>328</xmax><ymax>188
+</ymax></bnbox></object><object><name>CT</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><occluded>0</occluded><bnbox><xmin>445</xmin><ymin>127</ymin><xmax>490</xmax><ymax>221
+</ymax></bnbox></object></annotation>

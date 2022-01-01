@@ -1,0 +1,2 @@
+<annotation><folder /><filename>78.jpg</filename><path>78.jpg</path><source><database>custom_David_Yuval</database></source><size><width>680</width><height>384</height><depth>3</depth></size><segmented>0</segmented><object><name>CT</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><occluded>0</occluded><bnbox><xmin>318</xmin><ymin>93</ymin><xmax>375</xmax><ymax>188
+</ymax></bnbox></object></annotation>
